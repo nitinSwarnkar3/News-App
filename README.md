@@ -1,16 +1,8 @@
-# smart_news
+# Flutter News App
+A news application built with Flutter and NewsAPI.
 
-A new News app
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Fetches live news from NewsAPI
+- Currently it fetches news of Country US only . I am working on it to fetch news to Country India also
+- Categorized news (Business, Sports,Entertainment, Health, General, Science and Technology etc.)
+- Webview to read full articles
