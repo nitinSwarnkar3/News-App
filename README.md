@@ -1,4 +1,4 @@
-# Flutter News App
+# News App
 A news application built with Flutter and NewsAPI.
 
 ✨ Features
